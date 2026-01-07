@@ -8,6 +8,7 @@
  }
  body{
     background-color: antiquewhite;
+    display: flex;
  }
  div{
      width: 50%;
